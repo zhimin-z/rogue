@@ -268,9 +268,9 @@ This document classifies which evaluation strategies from the comprehensive eval
 
 ## Summary Statistics
 
-**Total Strategies Analyzed:** 37
+**Total Strategies Analyzed:** 34
 
-**Native Support:** 17
+**Native Support:** 13
 - Installation: Git Clone, PyPI Packages
 - Credentials: Model API Authentication
 - SUT: Model-as-a-Service, Interactive Agents
@@ -287,7 +287,7 @@ This document classifies which evaluation strategies from the comprehensive eval
 - Aggregation: Distributional Statistics
 - Reporting: Subgroup Analysis, Leaderboard Publication
 
-**Not Supported:** 13
+**Not Supported:** 14
 - Installation: Node Package, Container Images
 - SUT: Local Inference, Non-Parametric Algorithms
 - Inputs: Simulation Environment, Production Traffic
